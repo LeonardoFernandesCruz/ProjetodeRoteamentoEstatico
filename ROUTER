@@ -1,5 +1,4 @@
-
-[13:15, 20/09/2019] Leo: enable
+enable
 configure terminal
 hostname SW-01
 banner motd "ACESSO AUTORIZADO APENAS PARA O TI!"
